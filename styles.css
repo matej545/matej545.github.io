@@ -1,0 +1,13 @@
+h1 {
+  color: black;
+font-size: 48px;
+}
+#catimage {
+ width: 400px
+ }
+#catcontainer {
+display: flex;
+flex-direction: row;
+}
+#catimageitem
+#catlink
